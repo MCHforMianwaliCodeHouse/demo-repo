@@ -1,0 +1,4 @@
+Project details:
+1)home page
+2)about page
+3)contact page
